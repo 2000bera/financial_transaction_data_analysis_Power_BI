@@ -4,12 +4,12 @@
 
 # Table Content
 
-* 1. Tools Used
-* 2. Solve Statement
-* 3. Data Cleaning Process
-* 4. Analyze Insights
-* 5. Dashboard/Report
-* 6. Recommendation
+* Tools Used
+* Solve Statement
+* Data Cleaning Process
+* Analyze Insights
+* Dashboard/Report
+* Recommendation
 
 # 1. Tools Used
 
@@ -26,11 +26,12 @@
 
 * For dataset I used same data on this repo: https://github.com/2000bera/Data_Cleaning_Excel, which i cleaned the dataset from excel and upload the dataset on the data warehouse using databricks, connected my workspace to Power BI so that I don't need to upload data manually on Power BI
   
-* Steps for connection
-### 1. Get Data
-### 2. Look for databricks
-### 3. Get Server hostname, HTTP Path, and Token
-### 4. All dataset will appear on Power BI
+### Steps for connection
+
+* Get Data
+* Look for databricks
+* Get Server hostname, HTTP Path, and Token
+* All dataset will appear on Power BI
 
 # 4. Analyze Insights
 
@@ -38,11 +39,11 @@
 
 <img width="946" height="359" alt="image" src="https://github.com/user-attachments/assets/f6c22cfa-9f0e-4cdf-a64a-35da21643a21" />
 
-#
+--
 
 <img width="547" height="519" alt="image" src="https://github.com/user-attachments/assets/c49ab2c5-e25a-40a8-ad80-90cfe3a2cd4c" />
 
-
+--
 
 # 5. financial dashboard report
 
@@ -50,4 +51,4 @@
 
 # 6. Recommendation
 
-## - I recommend to focus mostly on the regions that have highest amount and also on the departments based on the payment dates each company should given 30 days to pay, automate email so that each company can get their transaction receipt in order to have more paid invoice
+* I recommend to focus mostly on the regions that have highest amount and also on the departments based on the payment dates each company should given 30 days to pay, automate email so that each company can get their transaction receipt in order to have more paid invoice
