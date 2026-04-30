@@ -1,32 +1,32 @@
 # Financial Transaction Data Analysis Power BI
 
-## - The dataset contains financial transaction data, including invoice status, payments. I used it to analyze departmental spending, track payment statuses.
+* The dataset contains financial transaction data, including invoice status, payments. I used it to analyze departmental spending, track payment statuses.
 
 # Table Content
 
-### 1. Tools Used
-### 2. Solve Statement
-### 3. Data Cleaning Process
-### 4. Analyze Insights
-### 5. Dashboard/Report
-### 6. Recommendation
+* 1. Tools Used
+* 2. Solve Statement
+* 3. Data Cleaning Process
+* 4. Analyze Insights
+* 5. Dashboard/Report
+* 6. Recommendation
 
 # 1. Tools Used
 
-## - Excel
-## - Power BI
-## - Databricks
-## - GitHub
+* Excel
+* Power BI
+* Databricks
+* GitHub
 
 # 2. Solve Statement
 
-## - Solving delay in payments, improving smooth workflow
+* Solving delay in payments, improving smooth workflow
 
 # 3. Data Cleaning Process
 
-## - For dataset I used same data on this repo: https://github.com/2000bera/Data_Cleaning_Excel, 
-## which i cleaned the dataset from excel and upload the dataset on the data warehouse using databricks, connected my workspace to Power BI so that I don't need to upload data manually on Power BI
-## - Steps for connection
+* For dataset I used same data on this repo: https://github.com/2000bera/Data_Cleaning_Excel, which i cleaned the dataset from excel and upload the dataset on the data warehouse using databricks, connected my workspace to Power BI so that I don't need to upload data manually on Power BI
+  
+* Steps for connection
 ### 1. Get Data
 ### 2. Look for databricks
 ### 3. Get Server hostname, HTTP Path, and Token
