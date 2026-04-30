@@ -1,9 +1,17 @@
-# financial_transaction_data_analysis_Power_BI
+# Financial Transaction Data Analysis Power BI
 
-# financial dashboard report
+# Table Content
+
+1. Solve
+2. Data Cleaning
+3. Analyze Insights
+4. Dashboard/Report
+5. Recommendation
+
+# 4. financial dashboard report
 
 <img width="1024" height="579" alt="image" src="https://github.com/user-attachments/assets/7ea4451b-4273-4aa3-ba93-ecf68f0fa01c" />
 
-#
+# 5. Recommendation
 
 
