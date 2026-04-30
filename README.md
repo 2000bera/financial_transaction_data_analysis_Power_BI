@@ -1,12 +1,12 @@
 # Financial Transaction Data Analysis Power BI
 
-# Table Content
+## Table Content
 
-1. Solve
-2. Data Cleaning
-3. Analyze Insights
-4. Dashboard/Report
-5. Recommendation
+### 1. Solve
+### 2. Data Cleaning
+### 3. Analyze Insights
+### 4. Dashboard/Report
+### 5. Recommendation
 
 # 4. financial dashboard report
 
