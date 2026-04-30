@@ -24,7 +24,7 @@
 
 # 3. Data Cleaning Process
 
-* For dataset I used same data on this repo: https://github.com/2000bera/Data_Cleaning_Excel, which i cleaned the dataset from excel and upload the dataset on the data warehouse using databricks, connected my workspace to Power BI so that I don't need to upload data manually on Power BI
+* For dataset I used same data on this repo: https://github.com/2000bera/Data_Cleaning_Excel, which i cleaned the dataset from excel and upload the dataset on the data warehouse using databricks, connected my workspace on databricks to Power BI so that I don't need to upload data manually on Power BI
   
 ### Steps for connection
 
