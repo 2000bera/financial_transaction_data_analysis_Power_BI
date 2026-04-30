@@ -1,6 +1,8 @@
 # Financial Transaction Data Analysis Power BI
 
-## Table Content
+## - 
+
+# Table Content
 
 ### 1. Solve Statement
 ### 2. Data Cleaning Process
@@ -10,7 +12,7 @@
 
 # 2. Data Cleaning Process
 
-- For dataset I used same data on this repo: 
+## - For dataset I used same data on this repo: https://github.com/2000bera/Data_Cleaning_Excel
 
 # 4. financial dashboard report
 
