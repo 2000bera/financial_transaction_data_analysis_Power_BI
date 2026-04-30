@@ -1,6 +1,6 @@
 # Financial Transaction Data Analysis Power BI
 
-## - 
+## - The dataset contains financial transaction data, including invoice status, payments. I used it to analyze departmental spending, track payment statuses.
 
 # Table Content
 
