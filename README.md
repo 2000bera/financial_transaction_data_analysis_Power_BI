@@ -2,8 +2,8 @@
 
 ## Table Content
 
-### 1. Solve
-### 2. Data Cleaning
+### 1. Solve Statement
+### 2. Data Cleaning Process
 ### 3. Analyze Insights
 ### 4. Dashboard/Report
 ### 5. Recommendation
