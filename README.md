@@ -17,6 +17,7 @@
 * Power BI
 * Databricks
 * GitHub
+* vscode, I was using it for SQL/Notebook
 
 # 2. Solve Statement
 
