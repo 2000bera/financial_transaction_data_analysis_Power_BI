@@ -1,4 +1,15 @@
 {
   "jupyter.interactiveWindow.cellMarker.codeRegex": "^# COMMAND ----------|^# Databricks notebook source|^(#\\s*%%|#\\s*\\<codecell\\>|#\\s*In\\[\\d*?\\]|#\\s*In\\[ \\])",
-  "jupyter.interactiveWindow.cellMarker.default": "# COMMAND ----------"
+  "jupyter.interactiveWindow.cellMarker.default": "# COMMAND ----------",
+  "sqltools.connections": [
+    {
+      "connectionMethod": "Hostname and Token",
+      "catalog": "workspace",
+      "previewLimit": 50,
+      "driver": "Databricks",
+      "host": "dbc-4216b1d7-678a.cloud.databricks.com",
+      "name": "Databricks db",
+      "path": "/sql/1.0/warehouses/c3c322ed12dda09d"
+    }
+  ]
 }

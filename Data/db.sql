@@ -1,2 +1,2 @@
-Select * 
-from catalog.schema_name.new_finance_dataset;
+select *
+from new_finance_dataset;
