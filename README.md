@@ -50,5 +50,3 @@
 
 
 # 6. Recommendation
-
-* I recommend to focus mostly on the regions that have highest amount and also on the departments based on the payment dates each company should given 30 days to pay, automate email so that each company can get their transaction receipt in order to have more paid invoice
