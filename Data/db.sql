@@ -11,18 +11,26 @@
 --  max(Amount) as maximum_amount
 -- from new_finance_dataset;
 
--- Getting all the invoices that have been paid
--- select *
+-- Getting the total number of transactions per department in the new_finance_dataset table
+-- select
+--   department
+--   count(*) as total_transactions
 -- from new_finance_dataset
--- where invoice_status = 'Paid'
--- order by Amount desc;
+-- group by department
+-- order by total_transactions desc;
 
-select 
-      Amount, 
-      invoice_status, 
-      Region
+-- Getting the total number of transactions per region in the new_finance_dataset table
+-- select
+--   region,
+--   count(*) as total_transactions
+-- from new_finance_dataset
+-- group by region
+-- order by total_transactions desc;
+
+-- Getting the total amount of transactions per region in the new_finance_dataset table
+select
+  department,
+  sum(Amount) as total_amount
 from new_finance_dataset
-where Region = 'South'
-group by Amount, invoice_status, Region
-order by Amount desc;
-
+group by department
+order by total_amount desc;
