@@ -27,10 +27,26 @@
 -- group by region
 -- order by total_transactions desc;
 
--- Getting the total amount of transactions per region in the new_finance_dataset table
-select
-  department,
-  sum(Amount) as total_amount
-from new_finance_dataset
-group by department
-order by total_amount desc;
+-- Getting the summary statistics for the Amount column per department in the new_finance_dataset table
+-- select
+--   department,
+--   sum(Amount) as total_amount,
+--   count(*) as total_transactions,
+--   avg(Amount) as average_amount,
+--   min(Amount) as minimum_amount,
+--   max(Amount) as maximum_amount
+-- from new_finance_dataset
+-- group by department
+-- order by total_amount desc;
+
+-- Getting the summary statistics for the Amount column per region in the new_finance_dataset table
+-- select
+--   region,
+--   sum(Amount) as total_amount,
+--   count(*) as total_transactions,
+--   avg(Amount) as average_amount,
+--   min(Amount) as minimum_amount,
+--   max(Amount) as maximum_amount
+-- from new_finance_dataset
+-- group by region
+-- order by average_amount desc;
